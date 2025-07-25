@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901978224010",
+    "project_id": "crudjc-note",
+    "storage_bucket": "crudjc-note.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901978224010:android:10dbe29704d8919f61c473",
+        "android_client_info": {
+          "package_name": "com.example.crudjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBoMFTxH7lnfxSiFKfo0deCStXTWkUBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
